@@ -1,0 +1,9 @@
+# GCP service account authentication
+**account.json
+
+# Vscode
+.vscode/
+
+# Terraform
+*.tf-state
+.terraform/
